@@ -14,6 +14,6 @@ Daha önce www.peyloride.com adresinde bir web sitem olsa da, bu başka. Sonuçt
 
 Burada yazmak farklıymış aslında, daha bi öznel. Daha bi kuğul hissettiriyor insanı.
 
-Altyapı önemli tabii ki. Wordpress'de ilk web sitem 10 kişi girince çökmüştü. Jeykll ile böyle şeyler yaşayacağımı sanmıyorum > ama güvenemiyorum da boh da çıkabilir.
+Altyapı önemli tabii ki. Wordpress'de ilk web sitem 10 kişi girince çökmüştü. Jeykll ile böyle şeyler yaşayacağımı sanmıyorum güvenemiyorum da boh da çıkabilir.
 
-![]({{site.baseurl}}/http://peyloride.com/wp-content/uploads/2014/12/temp-3.png)
+![]({{site.baseurl}}/http://peyloride.com/wp-content/uploads/85141-360x200.jpg)
