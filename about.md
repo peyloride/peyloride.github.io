@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
+## Felsefe Meraklısı, Fazla Düşünür
 
-A place to include any other types of information that you'd like to include about yourself.
+Python ve Ruby meraklısı, Bisikletli, Sinestezik, Elektrogitar aşığı, Analograf hastası.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
+### İletişim
+
+[okanb3@gmail.com](mailto:okanb3@gmail.com)
