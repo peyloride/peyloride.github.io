@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: Hakkımda
 permalink: /about/
 published: true
 ---
+
 
 
 ## Felsefe Meraklısı, Fazla Düşünür
