@@ -3,11 +3,6 @@ published: true
 layout: post
 ---
 
-
-
-
-##  Merhaba Dünya!
-
 İlk yazımı giriyorum.
 
 Daha önce www.peyloride.com adresinde bir web sitem olsa da, bu başka. Sonuçta ilk defa **Jekyll** kullanıyorum. Jekyll yazarken hep _Jeyyykl_ yazasım geliyor, neden bilmiyorum.
