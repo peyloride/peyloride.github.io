@@ -9,7 +9,7 @@ published: true
 
 ## Felsefe Meraklısı, Fazla Düşünür
 
-Python ve Ruby meraklısı, Bisikletli, Sinestezik, Elektrogitar aşığı, Analograf hastası.
+Python ve Ruby meraklısı, Bisiklet kullanıcıs, Sinestezik, Elektrogitarist, Analograf fotoğrafçısı.
 
 
 
