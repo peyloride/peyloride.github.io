@@ -1,0 +1,32 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+disqus: peyloride
+google_analytics: dbyll
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Okan Binli
+
+description: Okan Binli
+author:
+  name: Okan Binli
+  email: okanb3@gmail.com
+  github: peyloride
+  twitter: okanbinli
+  linkedin: okan-binli
+  bio: Karadeniz Teknik University Student who likes Programming in Ruby and Discovering System Vulnerabilities
+  email_md5: 36a647e7606627a28ad4b22a0055fb52
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
