@@ -9,6 +9,7 @@ fullview: true
 
 # Her türlü oyunu açsın
 Bu ara indirimde olan **Monster Abra V5 A2** gayet iyi bi seçim. Aynısı bende var çok memnunum. Neco'ya da sorabilirsin hatta, GTA'yı vs. nasıl oynadığımı o anlatsın. :) SSD'si yok ancak oyun performansını SSD etkilemez.
+
 - **Fiyatı: 3.500 TL**
 - **Ekranı 15.6 inç**(Klasik laptop boyutu)
 - **SSD yok**
@@ -17,6 +18,7 @@ Bu ara indirimde olan **Monster Abra V5 A2** gayet iyi bi seçim. Aynısı bende
 
 # Taşınabilirlik benim için çok önemli
 Hem tablet hem normal bilgisayar olabilen **Asus Transformer Book T300**, uzun şarj ömrü ve performansıyla güzel bi seçim. Ayrıca gayet şık. Her türlü işini bunda da görebilirsin, ama oyun oynayamazsın. Basit oyunlar hariç tabii. 
+
 - **Ekranı 10 inç**(Klasik tablet boyutu)
 - **Fiyatı: 3.300**
 - **SSD var**
@@ -25,6 +27,7 @@ Hem tablet hem normal bilgisayar olabilen **Asus Transformer Book T300**, uzun �
 
 # Hem oyun olsun hem zarif olsun dersen
 Tam olarak 3.000 TL'e Toshiba Satellite L50 alabilirsin. Şu anki oyunları vs. her şeyiyle full olarak oynayamazsın, ama medium-low arası karışık grafiklerde gayet rahat oynarsın. İlerki oyunlarda da benzer şekilde oynarsın. Çok şık olmasa ve taşınabilirlik konusunda ekstra özellikleri olmasa da yeterli bir laptop.
+
 - **Ekranı 15.6 inç**
 - **Fiyatı: 3.100**
 - **SSD var.**
@@ -33,6 +36,7 @@ Tam olarak 3.000 TL'e Toshiba Satellite L50 alabilirsin. Şu anki oyunları vs. 
 
 # İlle de asus olsun orta şekerli olsun
 Senin de necoya söylediğin laptop sanırım bu. 12 gb RAM ultra gereksiz. O kadar çok kullanmama rağmen bana bile 8 fazla geliyor. Tabii 12 gb'ı gerektiren uygulamalar var fakat bunları genelde 3 boyutlu grafik çizim gibi şeylerde gerekli oluyor. Senlik bir durum kesinlikle yok. Bir önceki Toshiba'dan ekran kartı olarak (yani oyun performansı olarak) üstün olmasına rağmen genel kullanımda daha yavaş kalan bu Asus bence daha şık. Yine taşınabilirlik konusu bence sıkıntı ama karar senin. En büyük eksisi **SSD olmaması.** Ortalama bir ssd bile HDD'den 4-5 kat (hatta daha fazla) hızlı. Bu da demek oluyor ki bilgisayarın çat diye açılır, programların çat diye açılır, Windows'un öyle salak salak bekleme yapmaz asılı kalmaz saçmalamaz. Bence **kesinlikle SSD olan bir laptop almalısın.**
+
   - **Ekranı: 15.6 inç**
   - **Fiyatı: 2.800**
   - **SSD Yok.**
@@ -41,6 +45,7 @@ Senin de necoya söylediğin laptop sanırım bu. 12 gb RAM ultra gereksiz. O ka
 
 # Bonus
 Oyun oynamak istediğini biliyorum ama MacBook'u da bence düşünmelisin. Madem iş güç başladın artık, daha çok işine yarayabilir. 10 saate yakın batarya ömrü, aşırı şık tasarımı ve virüs derdi vs. olmayan işletim sistemiye keyfine baka baka kullanırsın. Tavsiye ederim ancak oyun oynayamayacağını bilmelisin.
+
 - **Fiyat 3.100**
 - **Ekranı 13.3 inç**
 - **SSD mevcut**
