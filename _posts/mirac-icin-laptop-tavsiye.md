@@ -3,7 +3,7 @@ layout: post
 title: Miraç için PC önerileri :P
 categories: [genel]
 tags: [pc, tavsiye, notebook, laptop]
-fullview: true
+fullview: false
 ---
 
 
