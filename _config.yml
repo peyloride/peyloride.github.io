@@ -6,18 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Okan BİNLİ - Peyloride
+title: Okan Binli
 tagline: "Junior Ruby on Rails Developer"
 picture: okanbinli.jpg #keep a 100x100 image inside images folder.
 email: okanbinli@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Yudish is a minimal Jekyll theme for content oriented websites with less distractions.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "http://peyloride.github.io/" # the subpath of your site, e.g. /blog
 url: "http://peyloride.github.io" # the base hostname & protocol for your site
 brand-color: '#e74c3c'
 permalink: ':title/'
 
-# Footer
+# footer
 credits: webjeda #credits on the footer
 version: 1.0
 
