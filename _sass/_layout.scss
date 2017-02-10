@@ -91,7 +91,7 @@ code {
 
 code {
     padding: 1px 5px;
-    
+
 }
 
 pre {
@@ -139,7 +139,7 @@ pre {
     color: $background-color;
     display: table-cell;
     border-radius: 3px;
-    padding: 18px;    
+    padding: 18px;
     text-align: center;
     background: #e74c3c;
     color: #eee;
@@ -178,7 +178,7 @@ pre {
         color: #fff;
         background-color: $h-color;
     }
-    
+
     @media screen and (max-width: $on-palm) {
         padding: 2px 5px;
         margin-left: 5px;
@@ -212,7 +212,7 @@ pre {
 
     @media screen and (max-width: $on-palm) {
            padding: 5px 30px;
-        
+
     }
 }
 

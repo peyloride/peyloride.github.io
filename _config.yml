@@ -12,10 +12,19 @@ picture: okanbinli.jpg #keep a 100x100 image inside images folder.
 email: okanbinli@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Yudish is a minimal Jekyll theme for content oriented websites with less distractions.
-baseurl: "http://peyloride.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://peyloride.github.io" # the base hostname & protocol for your site
 brand-color: '#e74c3c'
 permalink: ':title/'
+
+#Social Links
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  peyloride
+facebook_username: okanb3
+twitter_username: okanbinli
+linkedin_username: okanbinli
+instagram_username:  okanbinli
 
 # footer
 credits: webjeda #credits on the footer

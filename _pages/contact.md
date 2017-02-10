@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 
-<form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token=<API-TOKEN>" method="POST" enctype="multipart/form-data">
+<form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token=ba690eab9a23b8c1a4b6e186bccf644f" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">
             <li class="contact-li">
                 <label class="contact-label" for="name">Name:</label>
@@ -19,29 +19,12 @@ permalink: /contact/
                 <label class="contact-label" for="message">Message:</label>
                 <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="4" id="message" name="message" tabindex="3"></textarea>
             </li>
-            
+
         </ul>
         <input type="submit" value="Send" id="submit"/>
         <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
-        
+
 </form>
-
-This form is setup using [SimpleForm](https://getsimpleform.com){: target="_blank" rel="nofollow"}. You can get your own API token or use other forms deleting this whole form. But remember, php forms will not work on Jekyll.
-
-The styles for the form is included in this page. I haven't included it in the main site because it has at least 25 lines of css and it is used only on this page. So including it in main css file doesn't make sense.
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1409800599270506";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-<div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/webjeda/">WebJeda</a></blockquote></div>
 
 
 <style>

@@ -8,5 +8,63 @@
      <a href="{{site.baseurl}}/"><img class="avatar" src="{{site.baseurl}}/images/{{site.picture}}" alt="avatar"></a>
    <h1 class="main-title">{{ site.title }}</h1>
     <h2 class="tagline">{{site.tagline}}</h2>
+    <div class="social-icons">
+      <ul>
+        {% if site.github_username %}
+        <li><a class="fa fa-2x fa-github" href="https://github.com/{{ site.github_username }}"><span class="description"></span></a></li>
+        {% endif %}
+
+        {% if site.facebook_username %}
+        <li><a class="fa fa-2x fa-facebook" href="https://facebook.com/{{ site.facebook_username }}"><span class="description"></span></a></li>
+        {% endif %}
+
+        {% if site.twitter_username %}
+        <li><a class="fa fa-2x fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"><span class="description"></span></a></li>
+        {% endif %}
+
+        {% if site.linkedin_username %}
+        <li><a class="fa fa-2x fa-linkedin" href="https://linkedin.com/in/{{ site.linkedin_username }}"><span class="description"></span></a></li>
+        {% endif %}
+
+        {% if site.instagram_username %}
+        <li><a class="fa fa-2x fa-instagram" href="https://instagram.com/{{ site.instagram_username }}"><span class="description"></span></a></li>
+        {% endif %}
+
+        {% if site.email %}
+        <li><a class="fa fa-2x fa-envelope" href="mailto:{{ site.email }}"><span class="description"></span></a></li>
+        {% endif %}
+      </ul>
+    </div>
 </div>
 </header>
+
+<style>
+.social-icons ul {
+    list-style: none;
+    padding: 0;
+}
+.social-icons li {
+    border-radius: 100%;
+    border: 2px solid white;
+    color: e74c3c;
+    margin: 8px;
+    display: inline-block;
+    list-style: none;
+    width: 65px;
+    height: 65px;
+}
+.social-icons li:hover {
+    color: white;
+    text-decoration: none;
+    -webkit-transition: 500ms;
+    -moz-transition: 500ms;
+    transition: 500ms;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.social-icons a {
+    color: #e74c3c;
+    padding: 15px;
+    text-decoration: none;
+}
+</style>
