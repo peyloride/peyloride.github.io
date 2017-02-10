@@ -1,32 +1,64 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
-highlighter: pygments
+# Site settings
+title: Okan BİNLİ - Peyloride
+tagline: "Junior Ruby on Rails Developer"
+picture: okanbinli.jpg #keep a 100x100 image inside images folder.
+email: okanbinli@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Yudish is a minimal Jekyll theme for content oriented websites with less distractions.
+baseurl: "/yudish" # the subpath of your site, e.g. /blog
+url: "http://peyloride.github.io" # the base hostname & protocol for your site
+brand-color: '#e74c3c'
+permalink: ':title/'
+
+# Footer
+credits: webjeda #credits on the footer
+version: 1.0
+
+# Build settings
 markdown: kramdown
-disqus: peyloride
-google_analytics: dbyll
+kramdown:
+  input: GFM
+highlighter: rouge
 
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: Okan Binli
+sass:
+  style: compressed
 
-description: Okan Binli
-author:
-  name: Okan Binli
-  email: okanb3@gmail.com
-  github: peyloride
-  twitter: okanbinli
-  linkedin: okanbinli
-  bio: Karadeniz Teknik University Student who likes programming in Ruby and curious about Cyber Security
-  email_md5: 36a647e7606627a28ad4b22a0055fb52
+disqus-shortname: peyloride-github-io
+analytics: UA-91742758-1
 
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
+include: [_pages]
 
-BASE_PATH:
+
+
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+
+prose:
+  rooturl: ''
+  siteurl: 'http://prose.github.io/starter/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+
+
+gems: [jekyll-paginate, jekyll-seo-tag]

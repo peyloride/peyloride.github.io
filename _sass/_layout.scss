@@ -1,0 +1,223 @@
+
+*{
+    -webkit-transition: all 0.2s; /* Safari */
+    -webkit-transition-timing-function: linear; /* Safari */
+    transition: all 0.2s;
+    transition-timing-function: linear;
+      }
+
+html {
+ font-family: $base-font-family;
+ text-rendering: optimizeLegibility;
+ color: $text-color;
+ line-height: $base-line-height;
+ font-size: $base-font-size;
+}
+body {
+    padding:0 10px 0 10px;
+    margin:0;
+    border-top: 2px solid $brand-color;
+}
+
+a {
+    color: $brand-color;
+    text-decoration: none;
+    &:hover {
+        color: $h-color;
+    }
+}
+
+img {
+    max-width: 100%;
+    border-radius: 2px;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+.site-nav {
+    background: #fff;
+    background: rgba(255,255,255,.9);
+    margin-top: 15px;
+    text-align: right;
+    z-index: 100;
+    @media screen and (max-width: $on-palm) {
+        text-align: center;
+    }
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 400;
+    color: rgba(231, 76, 60, 0.85);
+}
+
+h1 {
+    font-size: 2em;
+    @media screen and (max-width: $on-palm) {
+         font-size: 1.5em;
+    }
+}
+h2 {
+    font-size: 1.5em;
+    @media screen and (max-width: $on-palm) {
+         font-size: 1.25em;
+    }
+}
+
+h3 {
+    font-size: 1.25em;
+    @media screen and (max-width: $on-palm) {
+         font-size: 1.1em;
+    }
+}
+
+
+blockquote {
+    border-left: 3px solid $brand-color;
+    padding: 0.25em 0.25em 0.25em 1em;
+    background-color: rgba(231, 76, 60, 0.1);
+}
+
+pre,
+code {
+    font-size: 15px;
+    border: 1px solid $brand-color;
+    border-radius: 3px;
+    background-color: transparent;
+}
+
+code {
+    padding: 1px 5px;
+    
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: auto;
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+.avatar {
+    border-radius: 50%;
+}
+
+.jumbo {
+    text-align: center;
+    padding: 40px 30px 0px 30px;
+    border-bottom: 1px solid $grey-color-light;
+}
+
+.main-title {
+    font-size: 3em;
+    font-weight: 800;
+    line-height: 0;
+    color: #111;
+     @media screen and (max-width: $on-palm) {
+         font-size: 2em;
+    }
+}
+
+.tagline {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: $grey-color;
+    opacity: 0.7;
+     @media screen and (max-width: $on-palm) {
+         font-size: 1.25em;
+    }
+}
+
+
+.post-meta {
+    color: $background-color;
+    display: table-cell;
+    border-radius: 3px;
+    padding: 18px;    
+    text-align: center;
+    background: #e74c3c;
+    color: #eee;
+
+    line-height: 1;
+    strong {
+            font-size: 1.4em;
+    }
+    @media screen and (max-width: $on-palm) {
+        padding: 6px;
+        font-size: 0.8em;
+    }
+}
+
+.post-list {
+    list-style: none;
+    margin:0;
+    padding:0;
+
+}
+
+.site-header {
+    margin-bottom: 3em;
+}
+
+.menu-link {
+    background-color: $brand-color;
+    padding: 5px 10px;
+    color: #fff;
+    border-radius: 2px;
+    margin-left: 10px;
+    &:last-child{
+        margin-right: 10px;
+    }
+    &:hover{
+        color: #fff;
+        background-color: $h-color;
+    }
+    
+    @media screen and (max-width: $on-palm) {
+        padding: 2px 5px;
+        margin-left: 5px;
+    }
+}
+
+
+.footer {
+    margin-top: 3em;
+    border-top: 1px solid $grey-color-light;
+}
+
+
+
+.post-link {
+    display: table-cell;
+    padding: 0.5em;
+    @media screen and (max-width: $on-palm) {
+        margin-left: 0.5em;
+        font-size: 1em;
+    }
+    &:hover {
+        color: $h-color;
+    }
+}
+
+.post-box {
+    margin-bottom: 1em;
+    padding: 10px 60px;
+    display: table;
+
+    @media screen and (max-width: $on-palm) {
+           padding: 5px 30px;
+        
+    }
+}
+
+
+.highlight {
+    margin: 0;
+    display: inline-block;
+}

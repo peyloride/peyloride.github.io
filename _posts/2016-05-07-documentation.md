@@ -1,4 +1,10 @@
-**Demo:** [http://webjeda.com/yudish/](http://webjeda.com/yudish/)
+---
+layout: post
+title: Documentation
+---
+
+* Do not remove this line (it will not be displayed) 
+{:toc}
 
 # Features
 
@@ -40,19 +46,19 @@ This process will host the theme as a **Project Page**. You can also download th
 Default theme will look like this
 
 
-![webjeda yudish jekyll theme](/images/yudish-jekyll-theme.png)
+![webjeda yudish jekyll theme]({{site.baseurl}}/images/yudish-jekyll-theme.png)
 
 This theme is responsive.
 
-![webjeda yudish jekyll responsive theme](/images/yudish-responsive-jekyll-theme.png)
-
+![webjeda yudish jekyll responsive theme]({{site.baseurl}}/images/yudish-responsive-jekyll-theme.png)
+{: style="text-align:center" }
 
 # Customization
 Theme can be customized by changing the brand color in **_config.yml**.
 
 ``brand-color: '#3498db'``
 
-![webjeda yudish customized jekyll theme](/images/yudish-jekyll-theme-2.png)
+![webjeda yudish customized jekyll theme]({{site.baseurl}}/images/yudish-jekyll-theme-2.png)
 
 Remember, while developing locally, every change you make in **_config.yml** is applied only if you restart ``jekyll serve`` process.
 
