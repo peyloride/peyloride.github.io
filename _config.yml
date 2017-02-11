@@ -70,4 +70,4 @@ prose:
     - /_includes
 
 
-gems: [jekyll-paginate, jekyll-seo-tag]
+gems: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
