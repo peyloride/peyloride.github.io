@@ -22,7 +22,7 @@ permalink: /contact/
 
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="{{site.baseurl}}/thank-you/" />
+        <input type="hidden" name='redirect_to' value="{{site.url}}/thank-you/" />
 
 </form>
 
