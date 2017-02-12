@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: İletişim
 permalink: /contact/
 ---
 
@@ -17,12 +17,12 @@ permalink: /contact/
             </li>
             <li class="contact-li">
                 <label class="contact-label" for="message">Message:</label>
-                <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="4" id="message" name="message" tabindex="3"></textarea>
+                <textarea class="contact-textarea" placeholder="Your message" rows="5" id="message" name="message" tabindex="3"></textarea>
             </li>
 
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
+        <input type="hidden" name='redirect_to' value="{{site.baseurl}}/thank-you/" />
 
 </form>
 
@@ -41,6 +41,18 @@ permalink: /contact/
 }
 
 .contact-input:focus {
+    outline:none;
+    border-bottom: 1px solid #e74c3c;
+}
+
+.contact-textarea {
+    border:none;
+    border-bottom: 1px solid #eee;
+    transition-duration: 0.3s;
+    width: 36em;
+}
+
+.contact-textarea:focus {
     outline:none;
     border-bottom: 1px solid #e74c3c;
 }
