@@ -216,10 +216,16 @@ pre {
     }
 }
 
-
 .highlight {
     margin: 0;
     display: inline-block;
 }
 
+.scrollup {
+    position: fixed;
+    bottom: 50px;
+    right: 5%;
+    display: none;
+    font-size: 150%;
+}
 
