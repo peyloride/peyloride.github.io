@@ -1,8 +1,7 @@
 ---
-layout: post
 title: 'Github Pages üzerine Jekyll Kurulumu - Genel Düzenlemeler '
-date: '2017-02-20 20:22:48 +0300'
-published: true
+date: 2017-02-20 17:22:48 Z
+layout: post
 ---
 
 İkinci aşama olarak ise kurduğumuz temayı kendimize göre ayarlayıp kişisel linklerin vs. ayarlanmasını yapalım. Bunun için örrnek olarak kendi kullandığım ve bir önceki yazımda belirttiğim tema üzerinden anlatacağım.

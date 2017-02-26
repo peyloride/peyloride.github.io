@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Thank You
-permalink: /thank-you/
+permalink: "/thank-you/"
+layout: page
 ---
 
 Mesajınız başarıyla gönderildi. İletişime geçtiğiniz için teşekkür ederim.

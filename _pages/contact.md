@@ -1,9 +1,8 @@
 ---
-layout: page
 title: İletişim
-permalink: /contact/
+permalink: "/contact/"
+layout: page
 ---
-
 
 <form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token=ba690eab9a23b8c1a4b6e186bccf644f" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">

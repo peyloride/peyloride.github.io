@@ -1,8 +1,7 @@
 ---
-layout: post
 title: 'Github Pages üzerine Jekyll Kurulumu '
-date: '2017-02-12 20:22:48 +0300'
-published: true
+date: 2017-02-12 17:22:48 Z
+layout: post
 ---
 
 Okuduğunuz bu yazı Jekyll ve Github Pages tarafından size gösterilmekte. Olabildiğince kısa tutup, benzeri bir şeyi nasıl yapabileceğinizden bahsedeceğim.

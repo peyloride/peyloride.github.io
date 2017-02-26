@@ -1,72 +1,89 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: Okan Binli
-tagline: "Junior Ruby on Rails Developer"
-picture: okanbinli.jpg #keep a 100x100 image inside images folder.
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+tagline: Junior Ruby on Rails Developer
+picture: okanbinli.jpg
 email: okanbinli@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  My personal website.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://peyloride.xyz" # the base hostname & protocol for your site
-brand-color: '#e74c3c'
-permalink: ':title/'
+description: 'My personal website.
 
-#Social Links
-# Delete the lines you don't need
-# about 5 elements are recomended
-github_username:  peyloride
+'
+baseurl: ''
+url: http://peyloride.xyz
+brand-color: "#e74c3c"
+permalink: ":title/"
+github_username: peyloride
 facebook_username: okanb3
 twitter_username: okanbinli
 linkedin_username: okanbinli
-instagram_username:  okanbinli
-
-# footer
-credits: webjeda #credits on the footer
+instagram_username: okanbinli
+credits: webjeda
 version: 1.0
-
-# Build settings
 markdown: kramdown
 kramdown:
   input: GFM
 highlighter: rouge
-
 sass:
   style: compressed
-
 disqus-shortname: peyloride-github-io
 analytics: UA-91742758-1
-
-include: [_pages]
-
-
-
-#compress.html
+include:
+- _pages
 compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
-  comments: ["<!-- ", " -->"]
-  endings: [all]
+  clippings:
+  - html
+  - div
+  - p
+  - ul
+  - td
+  - h1
+  - h2
+  - h3
+  - h4
+  - link
+  - meta
+  - footer
+  - nav
+  - img
+  - header
+  - hr
+  - br
+  - head
+  - style
+  - li
+  - ul
+  - ol
+  - time
+  - main
+  - script
+  - title
+  comments:
+  - "<!-- "
+  - " -->"
+  endings:
+  - all
   ignore:
-    envs: [local]
+    envs:
+    - local
   blanklines: false
   profile: false
   startings: []
-
-
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://peyloride.xyz'
-  media: 'images'
+  rooturl: _posts
+  siteurl: http://peyloride.xyz
+  media: images
   ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-
-
-gems: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+  - index.md
+  - _config.yml
+  - "/_layouts"
+  - "/_includes"
+gems:
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-sitemap

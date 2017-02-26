@@ -1,9 +1,8 @@
 ---
-layout: page
 title: Hakkımda
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
-
 
 Karadeniz Teknik Üniversitesi'nde Bilgisayar Mühendisliği eğitimimin son sınıfındayım. 24 yaşındayım ve Ankara'da oturuyorum.
 
