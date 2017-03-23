@@ -22,8 +22,11 @@ layout: default
 
 <script type="text/javascript">
   window.onscroll = function(ev) {
-      if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
-          document.getElementById("scrollup").style.display = "block";
+      if ((window.innerHeight + window.scrollY) < 1500) {
+        document.getElementById("scrollup").style.display = "none";
+      }
+      if ((window.innerHeight + window.scrollY) >= 1500) {
+        document.getElementById("scrollup").style.display = "block";
       }
   };
 </script>
