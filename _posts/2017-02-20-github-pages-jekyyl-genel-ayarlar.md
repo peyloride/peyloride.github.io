@@ -1,6 +1,6 @@
 ---
 title: 'Github Pages üzerine Jekyll Kurulumu - Genel Düzenlemeler '
-date: 2017-02-20 17:22:48 Z
+date: '2017-02-20 17:22:48 +0000'
 layout: post
 ---
 

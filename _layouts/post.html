@@ -17,13 +17,14 @@ layout: default
 {% if site.disqus-shortname %}
 {% include disqus.html %}
 {% endif %}
-<script type="text/javascript">
-  var vglnk = { key: 'fe59dead979bd777a89752af93b7d161' };
+<script src="/zenscroll-min.js"></script>
+<a href="#" id="scrollup" class="scrollup"><i class="fa fa-arrow-circle-o-up"></i></a>
 
-  (function(d, t) {
-    var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
-    s.src = '//cdn.viglink.com/api/vglnk.js';
-    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
-  }(document, 'script'));
+<script type="text/javascript">
+  window.onscroll = function(ev) {
+      if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+          document.getElementById("scrollup").style.display = "block";
+      }
+  };
 </script>
 
