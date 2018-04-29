@@ -1,5 +1,5 @@
 ---
-title: Thank You
+title: Teşekkürler
 permalink: "/thank-you/"
 layout: page
 ---
