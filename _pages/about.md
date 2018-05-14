@@ -13,3 +13,5 @@ Her ne kadar backend çok ilgimi çekse de, frontend tarafında da işleri akıc
 Linux dağıtımlarını kurup, kurcalayıp bozmayı çok seviyorum. Canı sıkıldıkça dağıtım değiştiren birisiyim. Favori dağıtımım; ArchLinux
 
 Fazlasıyla meraklı ve düşünmeyi seven bir insanım. Mesleğimi, mesleğimde kullandığım araçları ve hayatımı, felsefesini anlayarak devam ettirmeye çalışıyorum.
+
+Özgeçmiş: [Okan_BİNLİ_CV](https://www.dropbox.com/s/qostmjqi5g78e5j/Okan-B%C4%B0NL%C4%B0-CV.pdf?dl=0)
