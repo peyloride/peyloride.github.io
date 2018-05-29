@@ -30,6 +30,9 @@ a {
 img {
     max-width: 100%;
     border-radius: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .wrapper {
@@ -229,3 +232,13 @@ pre {
     font-size: 150%;
 }
 
+h2, h3, h4, h5, h6 {
+  color: #B0645F;
+}
+
+.caption {
+    text-align: center;
+    display: block;
+    color: #989898;
+    font-size: 0.75em;
+}

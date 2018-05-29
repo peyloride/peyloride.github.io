@@ -83,7 +83,7 @@ prose:
   - _config.yml
   - "/_layouts"
   - "/_includes"
-gems:
+plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap
