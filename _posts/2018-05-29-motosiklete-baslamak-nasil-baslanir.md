@@ -66,7 +66,7 @@ Ekipman işi için internette çok araştırma yaptım, bir sürü video izledim
 
 {% include image.html file="motobike-2018.jpg" description="([Kolaçan](https://www.youtube.com/channel/UCRLYpC8t3MFZHXcSLzF-lIg) abimiz de Motobike İstanbul 2018'daydı)" alt="kolacan-moto-expo-2018" %}
 
-Fuar günü geldi çattı, uzun bir yolculuk yaptım (yaklaşık 2 saat). Mehmet amcamla görüştüm, dükkanları gezdim ve fuardan çok uygun fiyata, **Nolan N87** kask ve** Clover GTS Air** mont aldım. (İkisi için 1400 TL 3 Taksit ödedim). Eldiven işini zaten ehliyet kursunda da kullanmak üzere halletmiştim (sonradan o eldiven çok pişman etti beni ama olsun 150TL'de o).
+Fuar günü geldi çattı, uzun bir yolculuk yaptım (yaklaşık 2 saat). Mehmet amcamla görüştüm, dükkanları gezdim ve fuardan çok uygun fiyata, **Nolan N87** kask ve **Clover GTS Air** mont aldım. (İkisi için 1400 TL 3 Taksit ödedim). Eldiven işini zaten ehliyet kursunda da kullanmak üzere halletmiştim (sonradan o eldiven çok pişman etti beni ama olsun 150TL'de o).
 
 Geriye kaldı korumalı pantolon ve bot. Kafamda onları da halledip motosiklete öyle girişmek vardı fakat evdeki hesap çarşıya uymadı. 
 
@@ -91,7 +91,7 @@ Bütçemin el verdiği ölçüde bu modellere (bazılarına ucundan kıyısında
 
 **YBR** ve **CBF** bu kategorinin ağırbaşları. CBF'in kronik yağ yaktığı biliniyor. Ben de uzun bir süre YBR alacağım dedim durdum fakat tipi hiç hoşuma gitmiyordu. Bir de çok atik bir motor olmadığı biliniyor, otobanda kullandığımda biraz sorun olabilir diye düşündüm.
 
-**Falcon Freedom **da aynı superlight gibi, görünüşü bence bir tık daha kötü ama daha güzel özelliklere sahip, vites göstergesi gibi. Çin malı olması sebebiyle eledim.
+**Falcon Freedom** da aynı superlight gibi, görünüşü bence bir tık daha kötü ama daha güzel özelliklere sahip, vites göstergesi gibi. Çin malı olması sebebiyle eledim.
 
 **Apache**'i aslında duyar duymaz gıcık kapmadım desem yalan olur, Apache diye isim niye koyarsın ki. İsminin haricinde yere daha yakındı ve küçük kalıyordu altımda.
 
@@ -109,7 +109,7 @@ Bu bot ile 12 saatte bir eklenen yeni modelleri belirttiğim kriterlere uyuyorsa
 
 {% include image.html file="toplanıp-gitsek-ya.jpg" description="(Motosikletin sahibinin yapıştırdığı bu sticker çok hoşuma gitti, o yüzden hiç ellemedim. :))" alt="toplanip-gitsek-ya-pulsar-150-ns" %}
 
-O zamandan bu zamana **3.000km'den fazla** yaptım, yaklaşık 3 ayda. 2 hafta kadar önce haftasonu için** Ankara'ya gittim geldim** ki o da başka bir yazının konusu olacak. Açıkcası epey memnunum, ha bazı sorunlar yaşamadım mı; tabii ki yaşadım. Japon bir motosiklet alsam da sorun yaşayabilirdim bunlar olağan şeyler.
+O zamandan bu zamana **3.000km'den fazla** yaptım, yaklaşık 3 ayda. 2 hafta kadar önce haftasonu için **Ankara'ya gittim geldim** ki o da başka bir yazının konusu olacak. Açıkcası epey memnunum, ha bazı sorunlar yaşamadım mı; tabii ki yaşadım. Japon bir motosiklet alsam da sorun yaşayabilirdim bunlar olağan şeyler.
 
 {% include image.html file="ankara-istanbul-uzun-yol.jpg" description="İstanbul'dan Ankara'ya giderken durduğum 97845845. yerden bir kare" alt="ankara-istanbul-pulsar-150-ns-uzun-yol" %}
 
