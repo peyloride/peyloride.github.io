@@ -242,7 +242,3 @@ h2, h3, h4, h5, h6 {
     color: #989898;
     font-size: 0.75em;
 }
-
-.post-content {
-    text-align: justify;
-}
